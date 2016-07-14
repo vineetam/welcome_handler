@@ -34,7 +34,6 @@ var makeRequest = function() {
 request.end();
 };
 
-makeRequest();
 module.exports = makeRequest;
 
 
